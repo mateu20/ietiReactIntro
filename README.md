@@ -17,22 +17,30 @@ Debes seguir el Código de honor del ingeniero de sistemas para defender el est�
 `npm install`
 `npm start`
 
+
 ### Part 1: Create a basic React application and understand React basics
 Primera app react
+
 ![](img/primeraParte.PNG)
+
 
 ### Part 2: Create React Components for the TODO App
 
 Despues de crear los componentes y ponerlas a interactuar entre si obtenemos:
+
 ![](img/segundaParte.PNG)
 
+
 ### Part 3: Interacting with React Components
+
 Curso completo de Codecademy
+
 ![](img/cursoCompleto.PNG)
 
 Creación del formulario exitosa
 
 ![](img/terceraParte.PNG)
+
 ### Authors
 
 * **Mateo González**  - [mateu20](https://github.com/mateu20)
